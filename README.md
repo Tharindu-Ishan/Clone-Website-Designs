@@ -6,14 +6,14 @@ Please note that this clone project is for educational and demonstration purpose
 
 This is done by me to practice html,css  
 
+## License
+copyright &copy; 2023 Tharindu Ishan <br>
+This project is license uder [MIT License](License.txt)
+
 ## Technologies
 
 - HTML-5 
 - CSS-3 
-
-
-
-
 
 ## Screenshots
 
